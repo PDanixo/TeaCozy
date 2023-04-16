@@ -129,7 +129,7 @@ nav a.active {
 .container {
   display:flex;
   justify-content: center;
-  background-image: url("file:///C:/Users/Damian/Desktop/DevProject/Portfolio%20-%20Off-Platform%20Project%20Tea%20Cozy/Resource/img-locations-background.jpg");
+  background-image: url("PDanixo/TeaCozy/Resource/img-locations-background.jpg");
   width: 1200px;
   height: 500px;
 }
